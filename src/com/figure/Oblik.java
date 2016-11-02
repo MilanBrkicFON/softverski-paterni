@@ -14,8 +14,6 @@ public interface Oblik {
     abstract double povrsina();
     abstract double obim();
     abstract void ispisi();
-    abstract void kreiraj(double x);
-    abstract void kreiraj(double x, double y );
     
     
 }

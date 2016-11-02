@@ -86,15 +86,6 @@ public class Pravougaonik implements Oblik {
         System.out.println(this);
     }
 
-    @Override
-    public void kreiraj(double x) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
 
-    @Override
-    public void kreiraj(double x, double y) {
-        setA(x);
-        setB(y);
-    }
 
 }

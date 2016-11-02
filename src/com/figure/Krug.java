@@ -53,14 +53,5 @@ public class Krug implements Oblik{
         System.out.println(this);
     }
 
-    @Override
-    public void kreiraj(double x) {
-        setR(x);
-    }
-
-    @Override
-    public void kreiraj(double x, double y) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
     
 }
